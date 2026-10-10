@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Vasdn.aternos.me:63866",
-    "port": 75375,
+    "ip": "Vasdn.aternos.me",
+    "port": 63866,
     "version": "1.21.1"
   },
   "position": {
