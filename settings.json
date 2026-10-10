@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
+    "ip": "Vasdn.aternos.me:63866",
     "port": 75375,
     "version": "1.21.1"
   },
